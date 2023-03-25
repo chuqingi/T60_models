@@ -1,12 +1,12 @@
 # Models for estimation reverberation time (T60)
-Pytorch implementation of DNN estimation reverberation time (T60)
+A PyTorch implementation of the DNN estimation reverberation time (T60)
 
 ## Table of contents
-1. [Coding language](#cl)
+1. [Requirement](#re)
 2. [Reference](#reference)
 
-## Coding language <a name="cl"></a>
-* Coding language: torch ---- 1.9.0
+## Requirement <a name="re"></a>
+* Pytorch 1.9.0
 
 ## Reference <a name="reference"></a>
 * Blind reverberation time estimation using a convolutional neural network
