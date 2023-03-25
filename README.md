@@ -1,4 +1,4 @@
-# Models for estimation reverberation time (T60)
+# DNN for estimation reverberation time (T60)
 A PyTorch implementation of the DNN estimation reverberation time (T60)
 
 ## Table of contents
